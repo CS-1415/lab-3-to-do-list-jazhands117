@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-3-to-do-list-jazhands117")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c08fc062e233164e1e64b1b3b038b12809547b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba1a1a7983f75b2b9db44a3405579fc73cae949e")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-3-to-do-list-jazhands117")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-3-to-do-list-jazhands117")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
